@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c80c8a9-f5cc-4fad-923d-df1f04dd6664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/history.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/streams/StreamCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/streams/StreamCreate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/streams/StreamDelete.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/streams/StreamDelete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/streams/StreamEdit.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/streams/StreamEdit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/streams/StreamList.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/streams/StreamList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reducers/streamReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/streamReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/streams/StreamShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/streams/StreamShow.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568571625895</updated>
       <workItem from="1568571627929" duration="29694000" />
-      <workItem from="1568735555718" duration="23106000" />
+      <workItem from="1568735555718" duration="24823000" />
     </task>
     <task id="LOCAL-00001" summary="Api, Google Auth, Routes, Store, StreamCreate">
       <created>1568729580330</created>
@@ -106,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568740144427</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modal, History, Edit, Delete">
+      <created>1568823018968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568823018968</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Api, Google Auth, Routes, Store, StreamCreate" />
     <MESSAGE value="Server, Actions, StreamCreate Component, StreamReducer, Streams Api" />
-    <option name="LAST_COMMIT_MESSAGE" value="Server, Actions, StreamCreate Component, StreamReducer, Streams Api" />
+    <MESSAGE value="Modal, History, Edit, Delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modal, History, Edit, Delete" />
   </component>
 </project>
