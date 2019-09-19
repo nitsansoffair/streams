@@ -1,37 +1,22 @@
 {
   "streams": [
     {
-      "title": "My Stream",
-      "description": "This is a great stream!",
+      "title": "First Stream",
+      "description": "This is My First Stream",
+      "userId": "113659960792389804412",
       "id": 1
     },
     {
-      "title": "Other Stream",
-      "description": "Here's some stream",
+      "title": "Second Stream",
+      "description": "This is My Second Stream",
+      "userId": "113659960792389804412",
       "id": 2
     },
     {
-      "title": "Stream with User Id",
-      "description": "This is a Stream with User Id",
+      "title": "Third Stream",
+      "description": "This is My Third Stream",
       "userId": "113659960792389804412",
       "id": 3
-    },
-    {
-      "title": "Stream with User Id",
-      "description": "-",
-      "id": 4
-    },
-    {
-      "description": "3",
-      "title": "3",
-      "userId": "113659960792389804412",
-      "id": 5
-    },
-    {
-      "title": "Check Navigation",
-      "description": "Description",
-      "userId": "113659960792389804412",
-      "id": 6
     }
   ]
 }
